@@ -1,7 +1,3 @@
----
-What is TigasShade and how can i download it?
----
-
 # 💎 Start
 
 ## What is TigasShade?
